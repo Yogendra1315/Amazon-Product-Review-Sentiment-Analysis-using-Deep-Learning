@@ -34,7 +34,7 @@ Classify user-generated reviews into sentiment categories to help businesses und
 ---
 
 ## 🎯 Performance
-- Accuracy: ~88% on test set
+- Accuracy: ~89% on test set
 - Model evaluated using accuracy and confusion matrix
 
 ---
